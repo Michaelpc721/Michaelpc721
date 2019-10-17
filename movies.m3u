@@ -12,6 +12,9 @@ https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2019/02/El%20Rey%20Leon%20nuevo%20p%C3%B3ster.jpg?itok=Gbr1AIMx" group-title="01-LATINO",El Rey León (2019)
+http://a-12.1fichier.com/p447282087
+
 #EXTINF:-1 tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/195198_173x256.jpg" group-title="01-LATINO",Hotel de criminales (2018)
 http://dl.dropbox.com/s/6ycxaxjln2awj86/Hotel.artemis.2018.1080p-dual-lat-cinecalidad.to.mp4
 
