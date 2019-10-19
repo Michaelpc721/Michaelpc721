@@ -14,7 +14,7 @@ http://d19a4fd3xmc403.cloudfront.net/cr/canal4/smil:v2.smil/playlist.m3u8
 http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="08- COSTA RICA", Teletica 7
-https://www.dailymotion.com/56b363a7-04bc-4f0e-adb1-c1c89ba95826
+https://www.dailymotion.com/56b363a7-04bc-4f0e-adb1-c1c89ba95826.m3u
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Repretel_logo.svg/1200px-Repretel_logo.svg.png" group-title="08- COSTA RICA", 11 Repretel
 http://d2p1i9loz7pbh0.cloudfront.net/cr/canal11/smil:v2.smil/playlist.m3u8
